@@ -20,8 +20,6 @@
 
 ## About me
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=PabloDev24&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub stats"/>
-
 Hi, I'm Juan Pablo. I'm a full-stack developer from Mexico, and I like owning a feature from start to finish: the screen the user taps, the API behind it, the database, and getting it deployed.
 
 Most of my backend work is in **Java with Spring Boot**, plus **.NET**, **NestJS** and **Node.js**. On the frontend I reach for **React / Next.js** or **Angular** with TypeScript. I've also built **Android apps in Kotlin**, cross-platform apps with **Flutter**, **PWAs** and **desktop apps**.
@@ -29,8 +27,6 @@ Most of my backend work is in **Java with Spring Boot**, plus **.NET**, **NestJS
 Lately I've been building **RAG** features with **ChromaDB** and Python, and I also enjoy building **Arduino / IoT** projects and small games in **Godot**.
 
 I speak Spanish natively and English at a **B2** level, and I'm happy working remotely with distributed teams.
-
-<br clear="right"/>
 
 ---
 
