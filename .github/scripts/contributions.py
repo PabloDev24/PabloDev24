@@ -77,7 +77,9 @@ def fmt(n):
 
 stats = [
     (fmt(last_year), "Contributions", "last 12 months"),
-    (fmt(all_time), "All-time", "public + private"),
+    (fmt(all_time), "All-time", "public + private")
+    if all_time > last_year
+    else (fmt(best_day), "Best day", "contributions in one day"),
     (f"{current} days", "Current streak", ""),
     (f"{longest} days", "Longest streak", "last 12 months"),
 ]
