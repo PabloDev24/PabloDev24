@@ -20,7 +20,7 @@
 
 ## About me
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=PabloDev24&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub stats"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=PabloDev24&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub stats"/>
 
 Hi, I'm Juan Pablo. I'm a full-stack developer from Mexico, and I like owning a feature from start to finish: the screen the user taps, the API behind it, the database, and getting it deployed.
 
@@ -114,8 +114,11 @@ I try to keep code easy to read and easy to change: clear layers, small focused 
 ## GitHub stats
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloDev24&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Top languages"/>
-  <img height="175" src="https://streak-stats.demolab.com?user=PabloDev24&hide_border=true&background=0D1117&ring=1F6FEB&fire=00B4FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&stroke=30363D&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak"/>
+  <img width="100%" src="./assets/contributions.svg" alt="GitHub activity including private contributions"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloDev24&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Top languages"/>
 </p>
 
 <h4 align="center">Contributions in the last year</h4>
