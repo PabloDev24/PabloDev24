@@ -52,7 +52,7 @@ I speak Spanish natively and English at a **B2** level, and I'm happy working re
     </td>
     <td width="25%" valign="top">
       <h4>AI, IoT &amp; games</h4>
-      RAG with ChromaDB, Arduino-based IoT prototypes and 2D games in Godot Engine.
+      RAG with ChromaDB, Arduino-based IoT prototypes and 3D games in Godot Engine.
     </td>
   </tr>
 </table>
