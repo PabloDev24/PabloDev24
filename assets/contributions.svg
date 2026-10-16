@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="850" height="190" viewBox="0 0 850 190" role="img" aria-label="5,372 contributions in the last year">
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="190" viewBox="0 0 850 190" role="img" aria-label="5,374 contributions in the last year">
   <style>
     .title { font: 600 16px 'Segoe UI', Ubuntu, sans-serif; fill: #58A6FF; }
     .value { font: 700 34px 'Segoe UI', Ubuntu, sans-serif; fill: #FFFFFF; }
@@ -18,7 +18,7 @@
   <text x="24" y="36" class="title">GitHub activity (includes private work)</text>
   
   <g transform="translate(106,0)" class="fade" style="animation-delay:0.00s">
-    <text y="92" text-anchor="middle" class="value">5,372</text>
+    <text y="92" text-anchor="middle" class="value">5,374</text>
     <text y="124" text-anchor="middle" class="label">Contributions</text>
     <text y="146" text-anchor="middle" class="sub">last 12 months</text>
   </g>
@@ -28,7 +28,7 @@
     <text y="146" text-anchor="middle" class="sub">contributions in one day</text>
   </g><line x1="212" y1="58" x2="212" y2="150" stroke="#21262D"/>
   <g transform="translate(531,0)" class="fade" style="animation-delay:0.30s">
-    <text y="92" text-anchor="middle" class="value">0 days</text>
+    <text y="92" text-anchor="middle" class="value">1 days</text>
     <text y="124" text-anchor="middle" class="label">Current streak</text>
     <text y="146" text-anchor="middle" class="sub"></text>
   </g><line x1="425" y1="58" x2="425" y2="150" stroke="#21262D"/>
