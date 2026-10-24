@@ -28,7 +28,7 @@
     <text y="146" text-anchor="middle" class="sub">public + private</text>
   </g><line x1="212" y1="58" x2="212" y2="150" stroke="#21262D"/>
   <g transform="translate(531,0)" class="fade" style="animation-delay:0.30s">
-    <text y="92" text-anchor="middle" class="value">7 days</text>
+    <text y="92" text-anchor="middle" class="value">0 days</text>
     <text y="124" text-anchor="middle" class="label">Current streak</text>
     <text y="146" text-anchor="middle" class="sub"></text>
   </g><line x1="425" y1="58" x2="425" y2="150" stroke="#21262D"/>
@@ -37,5 +37,5 @@
     <text y="124" text-anchor="middle" class="label">Longest streak</text>
     <text y="146" text-anchor="middle" class="sub">last 12 months</text>
   </g><line x1="638" y1="58" x2="638" y2="150" stroke="#21262D"/>
-  <text x="826" y="176" text-anchor="end" class="foot">Updated Oct 23, 2026 · best day: 371</text>
+  <text x="826" y="176" text-anchor="end" class="foot">Updated Oct 24, 2026 · best day: 371</text>
 </svg>
